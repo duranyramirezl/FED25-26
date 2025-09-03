@@ -38,13 +38,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
+ #### Screenshot(s) van de eerste pagina (small screen): 
   Leeftijds-formulier
-  <img src="readme-images/screenshot-1.png" width="375px" alt="Formulier met vragen over regio, taal en leeftijd">
+  <img src="/readme-images/screenshot_1.png" width="375px" alt="Formulier met vragen over regio, taal en leeftijd">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Home-Pagina  
-  <img src="readme-images/screenshot-2.png" width="375px" alt="Silent Hill F home-pagina met hoofdpersonage als achtergrond beeld">
+  <img src="/readme-images/screenshot_2.png" width="375px" alt="Silent Hill F home-pagina met hoofdpersonage als achtergrond beeld">
  
 </details>
 
