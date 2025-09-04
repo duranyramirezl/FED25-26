@@ -68,6 +68,11 @@ Bij het doornemen van de WCAG-checklist viel op dat de site slecht scoort op het
 
 Conclusie: Het is een site met een prachtig en sterk design, maar de toegankelijkheid laat steken vallen bij afbeeldingen en enkele details. Met goede alt-teksten, een light mode-optie en het vermijden van tekst-in-afbeeldingen kan de toegankelijkheid flink verbeterd worden.
 
+<img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_1-images-0.jpg" width="375px" alt="Formulier pagina 1: Content & Global code">
+<img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_1-images-1.jpg" width="375px" alt="Formulier pagina 2: Keyboard, Mobile & Touch">
+<img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_1-images-2.jpg" width="375px" alt="Formulier pagina 3: Headings, Lists & Images">
+<img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_1-images-3.jpg" width="375px" alt="Formulier pagina 4: Media (Video and Audio) & Controls">
+<img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_1-images-4.jpg" width="375px" alt="Formulier pagina 5: Apperance, Animation & Color contrast">
 
 
 </details>
