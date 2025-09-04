@@ -33,7 +33,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
@@ -53,13 +52,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   
-  VoiceOver user trip en WCAG-checklist: Toegankelijkheidsrapport
-
 Toen ik de Silent Hill f site bekeek met de Mac VoiceOver, merkte ik meteen hoe lastig en overweldigend dit hulpmiddel kan zijn. Het was voor mij behoorlijk overstimulerend en zelfs een beetje hoofdpijn-veroorzakend, vooral omdat ik eerst moest uitvinden hoe ik items kon selecteren zonder een cursor. Toen ik dat eenmaal begreep, kon ik de website beter bekijken met de screenreader.
 
 Een van de eerste dingen die opviel, was dat de afbeeldingen geen of amper beschrijvingen hebben. Dat is echt jammer, want de game heeft een hele sterke esthetiek: een mooie maar hartstikke enge stijl die juist goed vertaald zou kunnen worden in alt-teksten. Ook bij de personages ontbreekt beschrijving. Alt-tekst is hier essentieel, want het kan gebruikers met visuele beperkingen een mentaal beeld geven. Denk bijvoorbeeld aan: “Hoofdpersonage Shimizu heeft een bob haarstijl en donkere bruine ogen.”
