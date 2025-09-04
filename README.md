@@ -57,6 +57,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  
+  VoiceOver user trip en WCAG-checklist: Toegankelijkheidsrapport
+
+Toen ik de Silent Hill f site bekeek met de Mac VoiceOver, merkte ik meteen hoe lastig en overweldigend dit hulpmiddel kan zijn. Het was voor mij behoorlijk overstimulerend en zelfs een beetje hoofdpijn-veroorzakend, vooral omdat ik eerst moest uitvinden hoe ik items kon selecteren zonder een cursor. Toen ik dat eenmaal begreep, kon ik de website beter bekijken met de screenreader.
+
+Een van de eerste dingen die opviel, was dat de afbeeldingen geen of amper beschrijvingen hebben. Dat is echt jammer, want de game heeft een hele sterke esthetiek: een mooie maar hartstikke enge stijl die juist goed vertaald zou kunnen worden in alt-teksten. Ook bij de personages ontbreekt beschrijving. Alt-tekst is hier essentieel, want het kan gebruikers met visuele beperkingen een mentaal beeld geven. Denk bijvoorbeeld aan: “Hoofdpersonage Shimizu heeft een bob haarstijl en donkere bruine ogen.”
+
+Bij het doornemen van de WCAG-checklist viel op dat de site slecht scoort op het onderdeel afbeeldingen. Daarentegen zijn er wel positieve punten: de site werkt goed met keyboard, mobiel gebruik, contrast en touchfunctionaliteit. Dat is een sterk pluspunt. Toch zijn er nog verbeterpunten. Er is bijvoorbeeld geen light mode, wat voor sommige gebruikers fijner zou zijn. Ook wordt er voor de aankondigingsdatum een afbeelding gebruikt in plaats van gewone tekst. Dat zou makkelijk opgelost kunnen worden door dit in een gestylde H2 te zetten, waardoor het semantisch correct én beter toegankelijk is.
+
+Conclusie: Het is een site met een prachtig en sterk design, maar de toegankelijkheid laat steken vallen bij afbeeldingen en enkele details. Met goede alt-teksten, een light mode-optie en het vermijden van tekst-in-afbeeldingen kan de toegankelijkheid flink verbeterd worden.
+
+
 
 </details>
 
