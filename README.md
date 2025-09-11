@@ -74,22 +74,29 @@ Conclusie: Het is een site met een prachtig en sterk design, maar de toegankel
 </details>
 
 
-
 ## Breakdownschets (week 1)
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/sketch-1.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/sketch-2.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/sketch-3.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/sketch-4.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/sketch-5.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/sketch-6.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/sketch-7.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/sketch-8.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/sketch-9.jpg" width="375px" alt="breakdown van de hele pagina">
+  
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  ### dynamisch deel: 
+  <img src="/readme-images/sketch_0.jpg" width="375px" alt="breakdown van hamburger menu deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
+
 
 
 
