@@ -187,7 +187,7 @@ header {
     flex-direction: column;
     align-items: center;
     justify-content: end;
-    background: url(/images/keyart_pc.webp) 50% 50% / cover no-repeat;
+    background: url(../images/keyart_pc.webp) 50% 50% / cover no-repeat;
 }
 
 .cover-release p {
