@@ -224,9 +224,11 @@ Over het algemeen is de basis van de toegankelijkheid op orde door de geldige HT
   <summary>continu bijhouden terwijl je werkt</summary>
 
   1. https://blog.hubspot.com/website/video-background-css
-  2. Flexbox oefening 2 https://codepen.io/shooft/live/wBKyoWx
-  3. Chatgpt-5 prompt: How do i make an age verifier with javascript with only birthyears.
-  4. Chatgpt-5 prompt: My script doesnt run help: const form = document.querySelector(".age-gate");if (form) {
+  2. Iris van Willegen: Hoe moet ik de H1 over een image positioneren?
+  3. Flexbox oefening 2 https://codepen.io/shooft/live/wBKyoWx
+  4. Iris van Willegen: Hoe kan ik de scrollbar bij de nieuws sectie een kleurtje geven?
+  5. Chatgpt-5 prompt: How do i make an age verifier with javascript with only birthyears.
+  6. Chatgpt-5 prompt: My script doesnt run help: const form = document.querySelector(".age-gate");if (form) {
     form.onsubmit = function () {const year = parseInt(document.querySelector('[name="year"]');if (year > 2007) {alert("You cannot view this content at this time.");return false;}
 
 </details>
