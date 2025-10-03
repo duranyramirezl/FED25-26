@@ -1,16 +1,4 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
-
-
-## Jij
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
@@ -29,13 +17,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
 ## Je website
 
 <details open>
+  <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+ Ik ga de Silent Hill f promotie website namaken.
 
  #### Screenshot(s) van de eerste pagina (small screen): 
   Leeftijds-formulier
@@ -52,17 +40,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
+  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   
-Toen ik de Silent Hill f site bekeek met de Mac VoiceOver, merkte ik meteen hoe lastig en overweldigend dit hulpmiddel kan zijn. Het was voor mij behoorlijk overstimulerend en zelfs een beetje hoofdpijn-veroorzakend, vooral omdat ik eerst moest uitvinden hoe ik items kon selecteren zonder een cursor. Toen ik dat eenmaal begreep, kon ik de website beter bekijken met de screenreader.
+  VoiceOver user trip en WCAG-checklist: Toegankelijkheidsrapport
+
+Toen ik de Silent Hill f site bekeek met de Mac VoiceOver, merkte ik meteen hoe lastig en overweldigend dit hulpmiddel kan zijn. Het was voor mij behoorlijk overstimulerend en zelfs gaf het mij hoofdpijn, vooral omdat ik eerst moest uitvinden hoe ik items kon selecteren zonder een cursor. Toen ik dat eenmaal begreep, kon ik de website beter bekijken met de screenreader.
 
 Een van de eerste dingen die opviel, was dat de afbeeldingen geen of amper beschrijvingen hebben. Dat is echt jammer, want de game heeft een hele sterke esthetiek: een mooie maar hartstikke enge stijl die juist goed vertaald zou kunnen worden in alt-teksten. Ook bij de personages ontbreekt beschrijving. Alt-tekst is hier essentieel, want het kan gebruikers met visuele beperkingen een mentaal beeld geven. Denk bijvoorbeeld aan: “Hoofdpersonage Shimizu heeft een bob haarstijl en donkere bruine ogen.”
 
-Bij het doornemen van de WCAG-checklist viel op dat de site slecht scoort op het onderdeel afbeeldingen. Daarentegen zijn er wel positieve punten: de site werkt goed met keyboard, mobiel gebruik, contrast en touchfunctionaliteit. Dat is een sterk pluspunt. Toch zijn er nog verbeterpunten. Er is bijvoorbeeld geen light mode, wat voor sommige gebruikers fijner zou zijn. Ook wordt er voor de aankondigingsdatum een afbeelding gebruikt in plaats van gewone tekst. Dat zou makkelijk opgelost kunnen worden door dit in een gestylde H2 te zetten, waardoor het semantisch correct én beter toegankelijk is.
+Bij het doornemen van de WCAG-checklist viel op dat de site slecht scoort op het onderdeel afbeeldingen. Daarentegen zijn er wel positieve punten: de site werkt goed met keyboard, mobiel gebruik, contrast en touchfunctionaliteit. Dat is een sterk pluspunt. Toch zijn er nog verbeterpunten. Er wordt voor de aankondigingsdatum een afbeelding gebruikt in plaats van gewone tekst. Dat zou makkelijk opgelost kunnen worden door dit in een gestylde p te zetten, waardoor het semantisch correct én beter toegankelijk is.
 
-Conclusie: Het is een site met een prachtig en sterk design, maar de toegankelijkheid laat steken vallen bij afbeeldingen en enkele details. Met goede alt-teksten, een light mode-optie en het vermijden van tekst-in-afbeeldingen kan de toegankelijkheid flink verbeterd worden.
+Conclusie: Het is een site met een prachtig en sterk design, maar de toegankelijkheid laat steken vallen bij afbeeldingen en enkele details. Met goede alt-teksten, een light mode-optie en het vermijden van tekst-in-afbeeldingen kan de toegankelijkheid flink verbeterd worden.
 
 <img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_1-images-0.jpg" width="375px" alt="Formulier pagina 1: Content & Global code">
 <img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_1-images-1.jpg" width="375px" alt="Formulier pagina 2: Keyboard, Mobile & Touch">
@@ -72,6 +63,7 @@ Conclusie: Het is een site met een prachtig en sterk design, maar de toegankel
 
 
 </details>
+
 
 
 ## Breakdownschets (week 1)
@@ -101,33 +93,17 @@ Conclusie: Het is een site met een prachtig en sterk design, maar de toegankel
 
 
 
-
 ## Voortgang 1 (week 2)
 
 <details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+ <img src="/readme-images/voortgang-1" width="375px" alt="breakdown van de hele pagina">
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+ 
+ Het ging prima, ik had al deels van mijn HTML baseerd op de breakdownschetsen. helaas  ken ik niemand uit deze klas en ik kon ze niet bereiken via teams sinds ik hun namen niet weet en na de werkgroep hier voor waren ze allemal weg voor dat ik met hun iets kon afspreken.
 
 </details>
 
@@ -135,32 +111,23 @@ Conclusie: Het is een site met een prachtig en sterk design, maar de toegankel
 
 
 
-## Voortgang 2 (week 3)
+## Voortgang 2 (week 3) - Gemist
 
 <details>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ Dus ik heb bereikt om de video als achtergrond te doen, maar ik wist niet hoe ik de h1 moest boven de cover img doen. 
+ <img src="/readme-images/voortgang-2.png" width="375px" alt="voortgang 2">
 
+ Iris heeft mij geholpen en wij hebben de cover image als achtergrond foto gebruikt met css. 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
+  <img src="/readme-images/voortgang-2_gelukt.png" width="375px" alt="voortgang 2 gelukt">
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+   <img src="/readme-images/voortgang-2_code.png" width="375px" alt="voortgang 2 code">
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+ Helaas was ik er niet, maar Iris heeft mij geholpen in de eerste wrkgroep van de weerk er na. Zij heeft mij geholpen waar ik vast liep en met de vragen dat ik wilde vragen op de echte voorgangsgesprek.
 
 </details>
 
@@ -172,9 +139,21 @@ Conclusie: Het is een site met een prachtig en sterk design, maar de toegankel
 
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
+  <img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_2-image_1.jpg" width="375px" alt="Formulier pagina 1: Content & Global code">
+  <img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_2-image_2.jpg" width="375px" alt="Formulier pagina 2: Keyboard, Mobile & Touch">
+  <img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_2-image_3.jpg" width="375px" alt="Formulier pagina 3: Headings, Lists & Images">
+  <img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_2-image_4.jpg" width="375px" alt="Formulier pagina 4: Media (Video and Audio) & Controls">
+  <img src="/readme-images/WCAG-CHECKLIST_SILENTHILL-F_2-image_5.jpg" width="375px" alt="Formulier pagina 5: Apperance, Animation & Color contrast">
 
+   
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+ Tijdens de tweede toegankelijkheidstest heb ik niet alle controlepunten volledig afgedekt. Ik heb mij vooral gericht op het verbeteren van de basis van de website. De HTML is nu geldig en bevat geen fouten. Daarnaast hebben alle afbeeldingen een alternatieve tekst gekregen, zodat schermlezers deze kunnen beschrijven.
+
+De website is echter niet volledig responsief. Op verschillende schermformaten schaalt de inhoud niet altijd goed mee. Er is ook geen lichtmodus aanwezig; de website ondersteunt alleen een donkere interface. Verder zijn niet alle onderdelen van de WCAG-checklist uitgevoerd of getest, waardoor er nog verbeterpunten openstaan.
+
+Over het algemeen is de basis van de toegankelijkheid op orde door de geldige HTML en de alt-teksten. Er is echter nog werk nodig om de website volledig toegankelijk te maken, vooral op het gebied van responsiviteit, kleurmodi en het volledig afwerken van de WCAG-criteria.
+
+
 
 </details>
 
@@ -188,29 +167,18 @@ Conclusie: Het is een site met een prachtig en sterk design, maar de toegankel
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben klaar met de layout van de main pagina! ik ben blij dat ik de kennist van een van de oefenopdrachten heb gebruikt voor mijn foto-galerij. Een van mijn problemen is dat asl je een thumbnail klikt om de foto de bekijken dan scrollt die naar boven. Ik heb ook geen begin gemaakt aan mijn tweede pagina en daarin moet ik een form maken en ik heb geen kennis over forms.
 
+<img src="/readme-images/voortgang-3_regular.png" width="375px" alt="voortgang 3">
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+<img src="/readme-images/voortgang-3_clicked.png" width="375px" alt="voortgang 3">
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Mijn code blijkt bijna helemaal valid te zijn. enige fout dat ik meteen had aangepast is dat ik een semantische fout had bij de warning deel van de pagina. ik had een section zonder header, die ook helemaal niet nodig was.
+ 
 
 </details>
-
 
 
 
@@ -245,12 +213,9 @@ Conclusie: Het is een site met een prachtig en sterk design, maar de toegankel
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-
   1. bron 1
   2. bron 2
   3. ...
 
 </details>
+
