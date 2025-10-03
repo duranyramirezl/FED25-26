@@ -99,7 +99,7 @@ Conclusie: Het is een site met een prachtig en sterk design, maar de toegankelij
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
- <img src="/readme-images/voortgang-1" width="375px" alt="voortgang 1">
+ <img src="/readme-images/voortgang-1.png" width="375px" alt="voortgang 1">
 
   ### Verslag van meeting
  
@@ -189,7 +189,15 @@ Over het algemeen is de basis van de toegankelijkheid op orde door de geldige HT
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="/readme-images/uitkomst-1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="/readme-images/uitkomst-1.png" width="375px" alt="uitkomst opdracht 1">
+   <img src="/readme-images/uitkomst-2.png" width="375px" alt="uitkomst opdracht 1">
+    <img src="/readme-images/uitkomst-3.png" width="375px" alt="uitkomst opdracht 1">
+     <img src="/readme-images/uitkomst-4.png" width="375px" alt="uitkomst opdracht 1">
+      <img src="/readme-images/uitkomst-5.jpg" width="375px" alt="uitkomst opdracht 1">
+       <img src="/readme-images/uitkomst-6.png" width="375px" alt="uitkomst opdracht 1">
+        <img src="/readme-images/uitkomst-7.png" width="375px" alt="uitkomst opdracht 1">
+         <img src="/readme-images/uitkomst-8.png" width="375px" alt="uitkomst opdracht 1">
+          <img src="/readme-images/uitkomst-9.png" width="375px" alt="uitkomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -200,9 +208,10 @@ Over het algemeen is de basis van de toegankelijkheid op orde door de geldige HT
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Zwevende particles met css. Dit vond ik nog te moeilijk, maar het zou mooi kunnen zijn.
+
+  <img src="/readme-images/bummer.jpg" width="375px" alt="bummer">
 </details>
 
 
