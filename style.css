@@ -490,31 +490,6 @@ header {
     width: 100%;
     max-width: 20em;
     height: auto;
-    margin-bottom: 0.5em;
-}
-
-@keyframes tremble {
-
-    0%,
-    100% {
-        transform: translate(0, 0) rotate(0deg);
-    }
-
-    25% {
-        transform: translate(-0.5px, 0.5px) rotate(-0.5deg);
-    }
-
-    50% {
-        transform: translate(0.5px, -0.5px) rotate(0.5deg);
-    }
-
-    75% {
-        transform: translate(-0.5px, 0.5px) rotate(0deg);
-    }
-}
-
-.monsters img {
-    animation: tremble 1s infinite;
 }
 
 
