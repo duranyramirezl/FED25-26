@@ -99,7 +99,7 @@ Conclusie: Het is een site met een prachtig en sterk design, maar de toegankelij
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
- <img src="/readme-images/voortgang-1" width="375px" alt="breakdown van de hele pagina">
+ <img src="/readme-images/voortgang-1" width="375px" alt="voortgang 1">
 
   ### Verslag van meeting
  
