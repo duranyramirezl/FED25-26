@@ -189,13 +189,14 @@ Over het algemeen is de basis van de toegankelijkheid op orde door de geldige HT
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="/readme-images/uitkomst-1.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  Onder veel CSS kennis, zoals grid, heb ik geleerd om een functionele hamburger menu te maken
+
+  <img src="/readme-images/geleerd.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
