@@ -195,7 +195,7 @@ Over het algemeen is de basis van de toegankelijkheid op orde door de geldige HT
      <img src="/readme-images/uitkomst-4.png" width="375px" alt="uitkomst opdracht 1">
       <img src="/readme-images/uitkomst-5.jpg" width="375px" alt="uitkomst opdracht 1">
        <img src="/readme-images/uitkomst-6.png" width="375px" alt="uitkomst opdracht 1">
-        <img src="/readme-images/uitkomst-7.png" width="375px" alt="uitkomst opdracht 1">
+        <img src="/readme-images/uitkomst-7.jpg" width="375px" alt="uitkomst opdracht 1">
          <img src="/readme-images/uitkomst-8.png" width="375px" alt="uitkomst opdracht 1">
           <img src="/readme-images/uitkomst-9.png" width="375px" alt="uitkomst opdracht 1">
 
@@ -223,9 +223,9 @@ Over het algemeen is de basis van de toegankelijkheid op orde door de geldige HT
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://blog.hubspot.com/website/video-background-css
+  2. Felxbox oefening 2 https://codepen.io/shooft/live/wBKyoWx
+  3. Chatgpt-5 prompt: How do i make an age verifier with javascript with only birthyears.
 
 </details>
 
