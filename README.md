@@ -199,7 +199,12 @@ Over het algemeen is de basis van de toegankelijkheid op orde door de geldige HT
          <img src="/readme-images/uitkomst-8.png" width="375px" alt="uitkomst opdracht 1">
           <img src="/readme-images/uitkomst-9.png" width="375px" alt="uitkomst opdracht 1">
 
+  ### Herkansing extratje: 
 
+  Ik heb gehoord van klas genoten dat je animaties moet hebben, dus ik heb een simpele "breathing" animations gedaan voor de monsters. Heel veel van deze code was gemaakt met hulp van de oefeningen van de les. 
+
+  <img src="/readme-images/animation_code.png" width="375px" alt="schermafbeelding van animatie code">
+  
   ### Dit ging goed/Heb ik geleerd: 
 
   Onder veel CSS kennis, zoals grid, heb ik geleerd om een functionele hamburger menu te maken
@@ -230,6 +235,7 @@ Over het algemeen is de basis van de toegankelijkheid op orde door de geldige HT
   5. Chatgpt-5 prompt: How do i make an age verifier with javascript with only birthyears.
   6. Chatgpt-5 prompt: My script doesnt run help: const form = document.querySelector(".age-gate");if (form) {
     form.onsubmit = function () {const year = parseInt(document.querySelector('[name="year"]');if (year > 2007) {alert("You cannot view this content at this time.");return false;}
+    7. https://stackoverflow.com/questions/10377453/play-infinitely-looping-video-on-load-in-html5
 
 </details>
 

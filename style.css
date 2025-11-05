@@ -423,6 +423,8 @@ header {
     padding-bottom: 0.5em;
 }
 
+
+
 #characters ul {
     list-style: none;
     margin: 0;
@@ -435,7 +437,10 @@ header {
     margin: 1rem 0 0.5rem;
     font-size: 1.5rem;
     color: var(--gold);
+    position: relative;
+    color: var(--gold);
 }
+
 
 #characters li p {
     margin: 0.5em;
@@ -454,7 +459,6 @@ header {
 #characters li img {
     margin: 0 auto 1rem;
     max-width: 18rem;
-
 }
 
 
@@ -483,13 +487,27 @@ header {
     text-align: center;
     border: 1px solid var(--gold);
     padding: 1em;
-    background-color: var();
 }
 
 .monsters li img {
     width: 100%;
     max-width: 20em;
     height: auto;
+    animation: breathe 4s ease-in-out infinite;
+}
+
+@keyframes breathe {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1);
+    }
 }
 
 
